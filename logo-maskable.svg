@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><rect width="1024" height="1024" fill="#0a1f44"/><g transform="translate(102.4 102.4) scale(.8)">
+<rect width="1024" height="1024" fill="#0a1f44"/>
+<!-- rails -->
+<path d="M300 900 L430 700 M724 900 L594 700" stroke="#f58220" stroke-width="22" stroke-linecap="round" fill="none" opacity=".9"/>
+<!-- train front -->
+<path d="M512 250 C690 250 740 330 745 470 L752 690 C752 745 715 770 665 770 L359 770 C309 770 272 745 272 690 L279 470 C284 330 334 250 512 250Z" fill="#fff"/>
+<path d="M330 400 Q330 335 395 335 L490 335 L490 470 L330 470Z" fill="#f58220"/>
+<path d="M694 400 Q694 335 629 335 L534 335 L534 470 L694 470Z" fill="#f58220"/>
+<circle cx="340" cy="600" r="36" fill="#f58220"/><circle cx="684" cy="600" r="36" fill="#f58220"/>
+<rect x="300" y="672" width="424" height="18" rx="9" fill="#0a1f44"/>
+<rect x="330" y="712" width="364" height="18" rx="9" fill="#0a1f44"/>
+<!-- speech bubble with tick -->
+<path d="M640 70 H900 A60 60 0 0 1 960 130 V250 A60 60 0 0 1 900 310 H760 L690 380 L700 310 H640 A60 60 0 0 1 580 250 V130 A60 60 0 0 1 640 70Z" fill="#f58220" stroke="#0a1f44" stroke-width="14"/>
+<path d="M650 195 L710 255 L830 125" fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" transform="translate(40,0)"/>
+</g></svg>

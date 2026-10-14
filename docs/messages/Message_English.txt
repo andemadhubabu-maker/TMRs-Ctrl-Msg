@@ -1,0 +1,58 @@
+🚆 *TMRs Ctrl Msg – Version 1 Beta*
+_A control-message and report helper for Train Managers (TMRs)_
+*Right information · at the right time · in the right format*
+
+Dear colleagues and friends,
+
+I have made a small web tool to help us construct control messages and reports quickly and correctly. Please read, try it and tell me what you think. 🙏
+
+*📌 ⚠️ First, please note*
+• This is *NOT an official Railway tool*. I made it only as a personal web tool for our convenience.
+• It only *drafts* the wording. We always check and send the message ourselves. Rule books and Control's orders always come first.
+• It may or may not replace the manual, phone-call or traditional way of informing Control. It is only an *aid* to construct the message or report in an emergency or incident.
+• This is a *Beta* version. There may be errors, bugs and mistakes. Please give your inputs, corrections, feedback and suggestions. 🙏
+
+*🔒 My biggest highlight: totally offline, totally private*
+• After the first install it works *fully offline*.
+• *All data is stored in your own phone only* – your name, phone number, signature, contacts, photos and saved messages. 
+• No server, no login, no tracking. Nothing is uploaded anywhere.
+• So there is *no fear of misuse or hacking*. A message goes out only when *you* tap WhatsApp / SMS / Share.
+
+*📞 Why a good control message matters*
+The Control Office is the nerve centre in an emergency. From our message it plans: relief engine, medical help, RPF, diversion of trains, and informing the officials. 
+In an emergency we are troubleshooting and talking at the same time, so it is not easy to write a complete message. 
+Control needs the *right information, at the right time, in the right format*. A wrong train number, a missing km or a missing time can cost precious minutes. A clear message makes a real difference.
+
+*📷 Evidence = authentication of our work*
+In this digital era, photos, video and voice notes sent along with the message prove what we found and what we did. The app helps to take them (with optional date-time-train-km stamp) and send them together with the message.
+
+*⏱ Time saved*
+Typing a full message by hand with all details on a phone keypad usually takes some minutes (approximately 3–5 minutes, depending on the person). If we know the features, the app can prepare it in well under a minute – Quick entry by voice or typing one sentence can fill most of the boxes in about 15–20 seconds. (These are approximate; please try and see for yourself.)
+
+*🧰 Core features in brief*
+• Guided messages: 18 categories, 118 scenarios, each in Full and Short format = 236 message formats.
+• Combinations: the drop-down choices alone give more than *5 trillion (5 lakh crore)* different messages, even before train number, km, time and tick-boxes.
+• Quick entry: type or say one line; the app picks the scenario and fills what it understood (never guesses).
+• 🚨 Emergency window: one tap, voice input, quick WhatsApp to saved contacts, call Control.
+• Recheck: warns about blank parts or a wrong train number before sending.
+• Evidence: photo, video, audio note, multi-camera, stamp, send with message.
+• Troubleshooting checklists with time stamps, stop timer, detention calculator, update reminder.
+• *Report tool*: TMR report, Loco Pilot report and also *Joint report* (when a joint report is asked) with signature pad, PDF, WhatsApp text and sharing with proof files.
+• Important numbers, My profile, My record (PME / training due dates), Saved messages and shift log, Free message, Night and Outdoor screens, Training mode, Telugu/Hindi titles, backup and restore.
+
+*📲 How to install (free, 1 minute)*
+*Android (Chrome):*
+1. Open this link in Chrome: [APP LINK]
+2. Tap ⋮ (menu) → *Install app* (or *Add to Home screen*).
+3. Open the app once *with internet* and wait a few seconds. After that it works without internet.
+*iPhone (Safari):* open the link → Share → *Add to Home Screen*.
+
+*🚀 Future*
+If this web version is useful, I plan to create a full Android app.
+
+*🙏 Request*
+Please try it, use the *Training* mode to practise, and send me wrong wording, bugs and ideas (inside the app: "Report wrong wording" button, or message me directly). Please also share with other TMRs, Guards and Loco Pilots who may find it useful.
+
+Thank you.
+– [Your name], Train Manager
+_(Not an official Railway tool. Beta version.)_
